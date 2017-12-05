@@ -1,3 +1,6 @@
+###
+
+require 'rspec'
 require 'spec_helper'
 
 describe RomeConverter do
